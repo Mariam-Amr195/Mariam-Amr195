@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
 
-# Hi 👋 I'm Mariam Amr Dawoud | مريم عمرو داود
+# Hi 👋 I'm Mariam Amr Dawoud
 
 ### 💻 Computer Science Student
 ### 🌱 Aspiring .NET Backend Developer
