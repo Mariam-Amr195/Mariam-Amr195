@@ -38,9 +38,9 @@
 - C#
 - Object-Oriented Programming (OOP)
 - Data Structures
-- SQL
 - Git & GitHub
 - CS50
+- Problem Solving
 
 ---
 
